@@ -1,0 +1,102 @@
+discover: hardware and software
+
+hardware->
+ -parte fisica do computador, tudo que é tocavel/fisico
+ex:placa mae, placa de video, processador...
+ 
+
+
+perifericos->
+ -dispositivo auxiliar usados para enviar e mreceber informaçoles do computador.
+ex: monitor, mouse,modem, teclado, impressora....
+
+
+software->
+ -um conjunto de instruçoes que permite controlar um aparelho eletronico
+ -parte logica do computador, parte nao tocavel/fisica.
+ex: software da webcam, que faz a comunicaçao entre o aparelho e o computador, gravando assim as imagens.
+ex: navegador web, que faz a comunicaçao do servidor onde as informaçoes do site estao hospedadas com o computador pessoal.
+ex: excel, word, que sao ferramentas para criaçao de planilhas, textos. 
+
+
+firmware->
+ -a funçao do firmware (que é um tipo de software) é armazenar todas as informaçoes pare que o equipamento funcione perfeitamente
+ -o firmware é armazenado permanentemente num circuito integrado (chip) de memoria de hardware no momento da fabricaçao do componente.
+ex: o chip instalado na placa de um mouse carrega com ele informaçoes preescritas,  essas informaçoes serao entregues ao computador 
+que as interpretara e fara ou nao algo com isso, por exemplo quando eu clico com o botao direito o firmware leva essa informaçao ao pc
+que a interpretara fazendo a funçao determinada. 
+
+
+
+drivers->
+ -a funcao do driver (que é um tipo de software) é ser a ponte entre o sistema operacional (windows,mac ios,linux) w o firmware dos dispositivos eletronicos
+ -o driver é instalado no computador quando ha a necessida de se conectar com um novo dispositivo.
+ex: ao utilizar um mouse novo, sera estabelicida e instalada uma ponte para a troca de informaçoes entre o sistema operacional e o firmware do mouse.
+ex: todos os dispositivos eletronicos(hardwares) que compoe seu computador possuem essas pontes que levam ao sistema operacional as infomaçoes do firmware.
+
+sistema operacional->
+ -um sistema operacional é responsavel pelo gerenciamento de todo o hardware do seu computador. é ele que vai dizer por exemplo, para o programa em execuçao 
+  quando poderá utilizar o processador e por quanto tempo, quanto de memoria RAM sera usada, gerenciamento de ssd/hd, etc.
+ -ele é o software mae de tudo. ele controla outros softwares e programs instalados, ele controla as comunicaçoes entre software e hardware, ele controla quando, onde, como e por que. 
+ex: ao fazer uma pesquisa no google chrome, esse mesmo estara instalado sob mediaçao do SO no hd, as informaçoes solicitadas pelo programa serao armazenas momentaneamente na ram tambem sob mediaçao so SO
+a pesquisa sera feita e visualizada atraves do monitor onde o driver ponte ira trazer do firmware os dados.
+
+
+programas ->
+ =softare-> programa de computador
+ =program-> programa de computador ou aplicativo
+ -um programa é um conjunto de instruçoes que descrevem uma tarefa e/ou trabalho especifico no seu computador
+ -sao ferramentas desenhadas para o usuario realizar açoes
+ex: photoshop, discord, sao programas de computador que realizao alguma funçao ao usuario.
+
+memoria ram->
+ -a memoria ram é jum espaço temporario de informaçoes do sistema operacional e de aplicativos em uso.
+ -quando uima tarefa é concluida por algum software, os arquivos que esdtavam em uso sao movidos da memoria ram para o hd ou ssd para serem armazenadas.
+ -quando o computador é desligado a memoria e limpa automaticamente
+ex: quando voce usa o world, o texto e o programa ficam armazenados temporariamente na ram, se voce fechar o aplicativo, a memoria sera apagada. se voce salvar o arquivo antes, ele sera armazenado no hd ou ssd
+
+hd/ssd ->
+ -o hd e o ssd sao dispositivos de armazenamento de dados.
+ -o hd usa pratos mecanicos e um cabeçote movel de leitura/gravaçao para acessar dados.
+ -o ssd não possui partes moveis, apenas chips de memorias.
+ -independente se o computador esta ligado ou nao, as informaçoes contidas no hd ou ssd permaneceram guardadas.
+ex: todos os dados podem ser guardados dentro do hd e do ssd, como jogos, planilhas, fotos.
+
+processador->
+ -o processador é o cerebro do computador
+ -transforma informaçoes em uma linguagem que o computador entende ( binario '0' e '1')
+ -tem o formato de um chip	
+ -ele transforma dados em informaçoes, por exemplo, carregar paginas, fazer downloads, abrir arquivos e executar programas.
+ -a velocidade que seu computador abre ou executa programas é em parte responsabilidade do processador.
+ex: a linguagem que o computador entende é a binaria 0 e 1, o papel do processador é de transformar toda a informaçao recebida em 0 e 1 analisar e responder de volta.
+sua qualidade muda com o poder e velocidade com que faz esse ciclo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+

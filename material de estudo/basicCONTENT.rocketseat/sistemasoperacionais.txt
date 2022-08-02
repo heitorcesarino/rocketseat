@@ -1,0 +1,106 @@
+o é um sistema operacional?->
+
+ -interface entre usuario e maquina
+ -programa que irá controlar seu aparelho (computador,celular)
+   ° Gerenciamento de dispositivos (hardware)
+   ° Gerenciamento de aplicativos e programas (software)
+   ° Gerenciamento de tarefas
+ -conversar com o computador em linguagem de maquina.
+
+#caracteristicas e objetivo# 
+
+1- facil entendimento para o usuario
+ °experiencia do usuario
+2- controle de hardware
+ ° Uso de perifericos
+ ° Memoria
+ ° Hd
+3- gerenciamento dos softwares
+ ° Programas
+
+#grupos de sistemas operacionais
+
+os dois grupos sao:
+  
+° UNIX                           ° WINDOWS
+-linux                           -windows 7                             
+-os x                            -windows 10                           
+-android                         -windows server
+-ios 
+
+#tipoes de interfaces do usuario#
+ -GUI 
+° graphical user interface
+° interface grafica, elementos graficos
+-cursor do mouse ou touch
+-area de trabalho
+-criar arquivos e pastas
+ -CLI
+° command-line interface
+° linha comando
+° emitir comandos em texto para o computador
+ - crair arquivos e pastas, por exemplo.
+
+
+#modulos#
+ 1-kernel->
+- componente central, o cerne do s.o
+- primeiro modulo a ser iniciado
+- permanece executando enquanto o s.o estiver ligado
+
+
+ 2-gerenciamento de processos->
+- processo é um programa em execuçao
+-agendamento de processos (scheduling)
+  =qual processo esta executando agora
+
+-thread
+-a divisao de um processo para melhor perfomance
+-um pedacinho do processo
+-poderá executar um paralelo
+
+multitarefa
+-multitasking
+-varias tarefas podem ser executadas simultaneamente
+-troca muito rapida entre elas
+-tarefas em segundo plano
+
+ 
+
+ 3-Gerencimaneto de arquivos
+
+-file system
+-organizaçao e armazenamento dos arquivos
+-videos, imagens, documentos
+-diretorios (pastas)
+-tipos de sistemas de arquivos
+-FAT, NFTS
+-ext3, ext4
+-hfs+, AFPS
+-sao criados quando formatamos o nosso disco por ex.
+
+
+#ferramentas de gerenciamento#
+
+-tarefas ( task manager, activity)
+-pacotes ( chocolatey, brew, apt, snap)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

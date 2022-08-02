@@ -1,0 +1,81 @@
+ #webpage#
+>pagina web
+>acessado pelo navegador 
+>encontrado pelo endereço universal URL
+>resposta dada pelo servidor é uma copia da pagina
+ -html- hyper text markup language
+ -css- cascading style sheet
+ -javascript
+
+>sites
+>agrupamento,estruturado (arquitetado) de varias paginas WEB
+>pode ser 
+ -estatico
+ -dinamico
+>um usuario comum nao sabe diferenciar entre estatico e dinamico.
+
+#web aplication#
+
+-um programa, um software que vive no servidor
+-linguagens de programaçao
+-banco de dados
+-utilizado atraves de paginas web e pelo navegador.
+-é mais complexo e possui mais requisitos
+-exemplo: facebook, gmail, youtube, figma
+
+#front-end back-end#
+
+>front end é a parte visual que se apresenta ao usuario/cliente, a interface.
+>back-end é a parte nao visual, é a parte dos bastidores do site/aplciaçao, é o banco de dados e servidor.
+
+#front end#
+>client side
+>browser faz pesquisa url e faz o request ao servidor
+>tecnoligias
+-html,css,javascript,imagens.
+-frameworks e bibliotecas.
+
+#back-end#
+>servidor (server-side)
+>recebe o request do front-end
+-entende e processa o pedido e desenvolve para o front end
+-regras de negocio da aplicaçao
+>tecnologias
+-php,java,python,javascript
+-banco de dados.
+
+#aplicaçao WEB tradicional vs SPA#
+
+Aplicaçao web tradicional
+-recarregar a pagina para ter conteudo atualizado
+-front-end e o back-end numa so aplicaçao
+-servidor processa e devolve toda pagina de uma so vez
+
+SPA
+>single page aplication
+-a sensaçao é de ter uma unica pagina
+>nao precisa recarregar a pagina para ter conteudo atualizado
+>front-end e back-end sao aplicaçoes diferentes
+>servidor responde a aplicaçao front-end
+-front-end feito com uso de frameworks
+-back-end é no formato de API (Application Programming Interface)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

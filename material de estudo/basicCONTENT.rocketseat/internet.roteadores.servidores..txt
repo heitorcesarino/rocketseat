@@ -1,0 +1,43 @@
+
+oque é a internet->
+ -a internet sao redes interligadas pelo mundo.	
+ -uma rede tem como objetivo interligar computadores para fornecer aos usuarios acesso a diversas informaçoes.
+ -a internet e feita de cabos que conectam o mundo inteiro
+
+
+rede de computadores e comunicaçao->
+ -a internet pode cair ? = nao no mundo todo, porem seu provedor pode sofrer com uma queda, mas que seria apenas regional.
+ -rede de computadores é a conexao de dispositivos para permitir a transmissao de dados
+ -a comunicaçao na internet é feita de protocolos (conjunto de regras)
+ex: 
+
+
+ip mac adress->
+ -internet protocol é um numero identificador dado ao seu computador, ou roteador, pelo provedor de internet no momento que se conecta a rede
+ -mac address é um numero de serie identifcador gravado no dispositivo de rede
+ -atraves do ip que seu computador pode enviar e receber dados da internet
+
+servidores->
+ -um servidor é um computador equipado com um ou mais processadores, portas de comunicaçao, softwares, algum sistema para armazenamento de dados como hds e/ou  ssd.
+ - fornece serviços a uma rede de computadores, chamada de cliente. esses serviços podem ser por exemplo, hospedagem de sites, provedor de emails, entre outros...
+ex: quando voce pesquisa pelo dominio "facebook" o navegador busca por ele em algum lugar da internet, onde o site vai estar hospedado em um servidor, podendo 
+o servidor ser de grandes empresas ou se nao um servidor caseiro bem menor.
+
+
+dns->
+ -os servidores dns (domain name system, ou sistemas de nomes de dominios) sao os responsaveis por localizar e traduzir para numeros ip os endereçols dos sites que digitamos nos navegadores.
+ -o dns permite que voce acesse um site digitando um endereço nominal em algum lugar de numeros e pontos.
+ex: o dns transforma o ip em dominio, sendo assim, ao inves de voce pesquisar no navegador o ip do site ( que e composto por varias letras, numeros e pontos), voce apenas
+digita o nome do site que automaticamente o dns vai buscar ele.
+
+
+http->
+ -hypertext transfer protocol, sigla http
+ -http é um protocolo de transferencia de dados
+ -no momento que o usuario digita uma url em algum navegador, o navegador cria uma requisiçao http e manda para o servidor correspondente ao ip da url e entao o servidor responde atrasves do http enviando todos os dados
+necessarios para exibir o site ao usuario no navegador.
+ -o https é o hypertex transfer protocol secure, que adiciona criptografia para as informaçoes enviadas ou recebidas de um site.
+ex: 
+
+
+

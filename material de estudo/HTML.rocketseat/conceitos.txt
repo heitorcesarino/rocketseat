@@ -1,0 +1,86 @@
+html
+
+como criar comentarios:
+
+<!-- -->
+
+#anatomia das tags#
+-abertura de tag
+-fechamento de tag
+-conteudo
+-elementos
+
+<h1>            -> abertura
+ o titulo       -> conteudo
+<h1>            -> fechamento
+
+#elementos vazios
+ex:
+<img src="" alt="">    ->tag+ atributos
+
+<input type="text">    ->tag+ atributos
+
+#atributos#
+
+atributos html
+-informaçoes extra
+-configuraçoes
+
+atributos booleanos (valor verdadeiro ou falso)(true or false)
+-nao precisam de conteudo
+ex: <input type="text" disabled>       disabled>desabilitar
+
+#aspas#
+-omissao  =utilize sempre aspas duplas, pois pode ocorrer de confundir o browser e ele ler ou nao o conteudo
+-simples
+-duplas
+ex:
+<a href="">link</a>
+
+atributos globais mais utilizados
+
+-class = usada pra classificar, onde essa classe pode ser acessada pelo javascript/css
+
+-contenteditable = atributo de valor verdadeiro usado pra editar o conteudo
+
+-data-* = usado para expandir o numero de atributos na mesma linha, tambem pode ser acessado por javascript/css
+
+-hidden = esconde uma tag
+
+-id = identifica o item, salvo que esse item nao pode se repetir, acessado pelo js/cs... 
+
+-style = praticament um css dentro do html, podendo fazer mudanças de cunho estetico direto no html
+
+-tabindex = usado como um acessorio para a navegaçao usando a tleca "tab" do teclado
+
+-title = titulo 
+https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes  
+<!-- onde estudar mais atributos globais-->
+
+#aninhamento de tags#     (UMA TAG ABERTA É UMA TAG FECHADA)sempre se certifique de que a tag aberta foi fechada para evitar cagar a porra toda
+
+-fluxo = a depender das tags, existe um fluxo que segue da esquerda pra direita, de cima pra baixo.
+
+
+-hierarquia= posicionar uma tag dentro de outra, voce cria uma tag pai, em seguidas as tags filhas. e uma vai responder respectivamente a anterior. o pc segue um fluxo
+
+
+
+-posicionamento dos elementos= a depender a tag, ela pode se manter na mesma linha ou quebrala e posicionar-se acima ou abaixo.
+
+#caracteres reservados#
+-conteudo do texto e caracteres reservados.
+
+espaços so serao de fato contados apartir do uso de caracteres especiais como
+
+(&nbsp;) que dara o espaço 
+<br> que quebrara a linha 
+&lt= que significa a tecla <
+&gt= que significa a tecla >
+&amp; que significa a tleca &
+&quot; que significa a tecla ""
+&apos; que significa a tecla ''
+
+#anatomia de um documento html#
+
+

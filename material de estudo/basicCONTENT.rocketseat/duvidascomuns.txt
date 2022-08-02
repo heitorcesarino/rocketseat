@@ -1,0 +1,33 @@
+duvidas comuns
+
+>windows,linux, ou mac para programar?
+-o que voce tiver a melhor experiencia e conhecimento
+
+>devo mudar de sistema operacional para programar pra web?
+-NAO
+
+>alguns dizem que linux ou mac é melhor para programar web, por que ?e porque devo continuar no windows?
+-curva de aprendizado
+
+>se for programar aplciativos nativos para iphone ou mac, qual s.o devo usar ?
+-mac
+
+>se for progrtamar aplciativos para funcionar somente em windows?
+-windows
+
+>meu computador é muito fraco pra ter windows e eu so vou programar para web, devo usar linux?
+-sim, linux mint.
+
+#REVISÃO#
+>para "operar" um computador ou smartphone, precisamos de um "sistema operacional".
+>ponte entre o usuario e a maquina
+>existem diversos tipos e categorais de s.o
+>gerencia a maquina em diversos niveis
+-diposistivos,processos,threads,multitasking
+>provavelmente seu sistema atual vai servir para voce programar web.
+
+	
+
+
+
+

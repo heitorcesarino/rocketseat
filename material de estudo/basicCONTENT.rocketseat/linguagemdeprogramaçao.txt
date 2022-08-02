@@ -1,0 +1,85 @@
+O que é codar?
+
+>escrever para o computador
+>seguir regras
+>linguagem humana x maquina
+
+
+curiosidades.
+>a pessoa que cria codigos.
+-programadora,desenvolvedora,dev,developer.
+
+>codigo vs programa
+>codigos sao comandos,ordens,instruçoes ao computador
+>o computador provavelmente ira traduzir o seu codigo.
+>existem codigos em muito eletronicos
+-microondas,semaforos,roteadores,aviao
+>codar é simples.
+
+
+#computador#
+imagine the computer
+
+>input e output
+>executa tarefas e faz calculos
+>mas ele so entende uma lingua:BINARIA
+
+#BINARIA#
+
+>zero e uns: 01010101)
+>ligado e desligado
+>bilhoes de disjuntores que ligam e desligam
+>mas é impossivel para oser humano, escrever bilhoes de 0-1
+
+#ABSTRAÇÃO#
+>transformaçao de linguagens
+>podemos entender uma linguagem de programçao
+>o computador tambem pode entender
+>nos precisamos aprender a linguagem de programaçao
+-ingles
+-existem inumeras
+-são ferramentas para um determinado objetivo
+-games,I., machine learning
+
+#LOW-LEVEL<>HIGH-LEVEL
+
+LOW-LEVEL->
+>significa baixo nivel
+>mais proxima da maquina,do binario
+-é mais dificil de escrever e de ler
+-é mais rapida
+>existe pouca interferencia de traducao
+>a programçao comecou pelo baixo nivel
+-exemplo:
+-assembly
+
+HIGH-LEVEL->
+>significa alto nivel
+>mais proxima da comunicaçao humana
+-if,else,function,object,class..
+>leva mais tempo para a maquina traduzir e entender
+-compilar ou interpretar
+-nada mais que milissegundos
+exemplo:
+-javascript,python,rust
+
+#SINTAXE#
+
+>conjunto de regras de escrita
+>cada lingua tem suas regras
+>simbolos
+-{},(),;,=,++,--
+>palavras reservadas
+-if,else,while,for,var,let,const
+
+conclusao
+-dizer ao computador oq fazer
+-traduzir pensamentos
+-resolver problemas
+-ferramenta
+-programar é facilitar a comunicaçao entre humanidade e maquinas
+
+
+
+
+

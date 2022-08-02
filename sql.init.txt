@@ -1,0 +1,15 @@
+Comandos sql - todos os comandos sql sao em letra maiuscula.
+
+
+---- SELECT > tem como funçao buscar informaçoes.
+
+---- * > significa todas as informaçoes.
+
+---- FROM > tem como funçao de onde bucar as informaçoes.
+
+
+
+
+
+
+
